@@ -16,33 +16,33 @@
 
 An AI Chatbot is a computer program designed to simulate human conversation using Natural Language Processing (NLP). It can interact with users, understand their queries, and provide relevant responses. This chatbot will be built using NLP libraries like NLTK (Natural Language Toolkit) or spaCy, which help process and analyze text efficiently.
 
-Objectives
+# Objectives
 The goal of this project is to:
 
 Build a chatbot using NLTK or spaCy.
 Enable the chatbot to process and understand user queries.
 Provide relevant automated responses based on predefined rules or machine learning models.
 
-Tools & Technologies Used
+# Tools & Technologies Used
 Programming Language: Python 🐍
 NLP Libraries:
 NLTK (Natural Language Toolkit): Tokenization, stemming, lemmatization, and text processing.
 spaCy: Faster NLP processing and deep learning support.
 Machine Learning (Optional): Training a chatbot with advanced AI models.
 
-How the Chatbot Works
+# How the Chatbot Works
 User Input Processing:
 The chatbot takes user input in natural language.
 It tokenizes and processes the text to extract key information.
 
-Pattern Matching & Response Generation:
+# Pattern Matching & Response Generation:
 The chatbot matches the input with predefined patterns.
 It generates responses using rule-based logic or an AI model.
 
-User Interaction:
+# User Interaction:
 The chatbot continuously interacts with the user until the conversation ends.
 
-Imports:
+# Imports:
 nltk: The main library for natural language processing.
 random: For random responses.
 nltk.chat.util.Chat: A utility class for creating a simple chatbot.
