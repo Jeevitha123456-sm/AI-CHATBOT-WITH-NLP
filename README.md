@@ -13,6 +13,7 @@
 "MENTOR":Sravani
 
 ## How the script works:
+
 An AI Chatbot is a computer program designed to simulate human conversation using Natural Language Processing (NLP). It can interact with users, understand their queries, and provide relevant responses. This chatbot will be built using NLP libraries like NLTK (Natural Language Toolkit) or spaCy, which help process and analyze text efficiently.
 
 Objectives
