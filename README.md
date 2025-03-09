@@ -29,4 +29,5 @@ Running the script:
 Install the necessary libraries using pip install nltk.
 Run the script, and you can interact with the chatbot in the terminal or command prompt.
 This is a basic chatbot that answers simple questions and responds to specific patterns. You can expand the patterns and responses to make the chatbot more intelligent.
-
+OUTPUT :
+![Image](https://github.com/user-attachments/assets/5365666a-2a92-4975-a3cf-3a82ec88919d)
